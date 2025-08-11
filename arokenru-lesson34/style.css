@@ -1,0 +1,22 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.text-1 {
+    text-decoration: line-through;
+}
+
+.text-2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text-3 {
+    word-spacing: 30px;
+}
+
+.text-4 {
+    letter-spacing: 5px;
+}
