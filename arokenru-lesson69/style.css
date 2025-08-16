@@ -1,0 +1,29 @@
+body {
+    background-color: #272626;
+    color: white;
+}
+
+.elem {
+    position: fixed;
+    right: 0;
+    bottom: 100px;
+    margin-right: 50px;
+}
+
+.box {
+    position: relative;
+    min-height: 100px;
+    background-color: #fff;
+    width: 50vw;
+    border-radius: 20px;
+}
+
+.circle {
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 100%;
+}
